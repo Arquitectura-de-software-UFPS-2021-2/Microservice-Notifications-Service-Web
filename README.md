@@ -1,4 +1,4 @@
-# calendar-vue
+# Microservice-Notifications-Web
 
 ## Project setup
 ```
