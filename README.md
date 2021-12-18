@@ -17,3 +17,9 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Routes Config 
+```
+ENDPOINT ->  /notifications?id=1 ->  this id is an example but really is dinamic
+Then the Vue.js Front returned the view from user
+```
