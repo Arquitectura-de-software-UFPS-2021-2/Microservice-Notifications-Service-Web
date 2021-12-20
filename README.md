@@ -41,4 +41,5 @@ La cuarta notificación que observamos es un recordatorio, de asesorias que tene
 El quinto tipo de notificación sucede cuando se ha agendado una asesoria. 
 La siguiente notificación es un mensaje entre compañeros registrados en el portal.
 La proxima notificación nos enseña las publicaciones recientes de los compañeros que se encuentran en el portal. 
+De cada una de ellas se puede ver especificamente el mensaje que llega pulsando sobre la flecha que se encuentra en la parte final derecha de cada notificación
 
