@@ -1,5 +1,7 @@
 # Microservice-Notifications-Web  
-
+'''
+Notifications es un servicio que esta pensado en como su nombre lo indica mostrar las notificaciones diferentes que reciben los usuarios del PORTAL EDUCATIVO PARA EL PROGRAMA DE INGENIERÍA DE SISTEMAS, esta desarollado en Vue.js el cual es un framework de JavaScript de codigo abierto, se trabajó mediante microservicios usando una arquitectura . Este servicio tiene como finalidad enseñar los diferentes tipos de notificaciones que pueda tener un usuario de nuestro portal, como lo son, inicio de sesión, registro, recordatorio de tutorias, mensajes entre compañeros, entre otros.
+'''
 https://notifications-ufps.web.app/notifications?token=1
 
 ## Project setup
