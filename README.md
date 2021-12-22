@@ -3,7 +3,10 @@
 Notifications es un servicio que esta pensado en como su nombre lo indica mostrar las notificaciones diferentes que reciben los usuarios del PORTAL EDUCATIVO PARA EL PROGRAMA DE INGENIERÍA DE SISTEMAS, esta desarollado en Vue.js el cual es un framework de JavaScript de codigo abierto, se trabajó mediante microservicios usando una arquitectura capas. Este servicio tiene como finalidad enseñar los diferentes tipos de notificaciones que pueda tener un usuario de nuestro portal, como lo son, inicio de sesión, registro, recordatorio de tutorias, mensajes entre compañeros, entre otros.
 
 Link del aplicativo desplegado 
-http://notifications-ufps.s3-website.us-east-2.amazonaws.com/?token=1#/
+http://notifications-ufps.s3-website.us-east-2.amazonaws.com/
+
+Se deben pasar los parametros id y api_token, un ejemplo seria asi
+http://notifications-ufps.s3-website.us-east-2.amazonaws.com/?id=1&api_token=Pt3bCLQZ6nlBIotpkmYOjxt89UGqod30UthCAEMN6xOup7vQ5FTn3dSC19XOBW78EPS7eUyuqKPPlpfcH3Ks1LdkL1qf4GkLiewSP8MzhTA2fhmHvhIxxTwE5GvSsjy6UMR8rzuCO1DqRRvtpIvczm
 
 ## Project setup
 ```
